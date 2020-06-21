@@ -1,12 +1,11 @@
 # LAUTECH-SKill-Acquisition-Program
-PYTHON PROGRAMMING FUNDAMENTALS FOR DATA SCIENCE 
 
 LAUTECH ICT Centre in conjunction with the LAUTECH Centre for Research Innovation Discovery organized a free Online Skill Acquisition programme for students as an improvement plan during the global pandemic period. I volunteered to mentor students across various departments and levels in Python Programming Language and Data Science Basics. The 7-Day e-training was held on zoom from Thursday April 9 to Friday April 17, 2020.
 
 The training outline is as follows:
 
-Day1: Introduction
-- Brief Introduction: Aim of the training and Deliverables
+- Day1: Introduction
+  - Brief Introduction: Aim of the training and Deliverables
  Anaconda Environment Setup and Installation
  Python Basics: Variables, Operators and mathematical operations, Data types, Input and output
 Program Flow Control 
